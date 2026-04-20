@@ -1,0 +1,38 @@
+# ========================
+# GİZLİ DOSYALAR (ŞİFRELER BURADA)
+# ========================
+.env
+*.env
+.env.*
+secrets.json
+
+# ========================
+# PYTHON / FASTAPI (Backend)
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+Pipfile.lock
+*.log
+
+# ========================
+# DART / FLUTTER (Frontend)
+# ========================
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.fvm/
+
+# ========================
+# İŞLETİM SİSTEMİ & İDE
+# ========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
