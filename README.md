@@ -7,7 +7,7 @@ Bu proje, iki farklı mobil uygulama arasında anlık bir bildirim ve onay/ret d
 ### 1. Backend Kurulumu (FastAPI)
 Projeyi çalıştırmadan önce `backend` klasöründe kendi `.env` dosyanızı oluşturup Supabase bilgilerinizi (URL ve KEY) girmeniz gerekmektedir.
 
-###Sanal ortamı aktif edip kütüphaneleri kurun ve sunucuyu başlatın:
+### Sanal ortamı aktif edip kütüphaneleri kurun ve sunucuyu başlatın:
 
 cd backend
 python -m venv venv
